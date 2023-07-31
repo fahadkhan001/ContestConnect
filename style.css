@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.card{
+    margin:15px;
+}
+.row{
+    margin: -33px;
+}
+.cardcontainer{
+    background-color: red;
+}
+.lowertext{
+    font-size: 20px;
+}
